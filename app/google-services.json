@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "968387609340",
+    "firebase_url": "https://app-developer-bd3cc-default-rtdb.firebaseio.com",
+    "project_id": "app-developer-bd3cc",
+    "storage_bucket": "app-developer-bd3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968387609340:android:a9d1162e7c413a0caecd79",
+        "android_client_info": {
+          "package_name": "com.apps6283.shorts_app_sql_php_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968387609340-3vktdicdujrhkb7e1n9qt4okkt11k6sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps6283.shorts_app_sql_php_api",
+            "certificate_hash": "32e8f71768e37a439181f7c941fb2d5186e4aaaf"
+          }
+        },
+        {
+          "client_id": "968387609340-rtq1ai4u8oicvlqr0ntl3buq0nnh7bvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4rnv1AxwgRLRVpz7GGxRXxNvi80kBkEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968387609340-rtq1ai4u8oicvlqr0ntl3buq0nnh7bvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968387609340:android:6f4b59f083d3c8e6aecd79",
+        "android_client_info": {
+          "package_name": "com.apps6283.shortsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968387609340-kb7aq5snk9iqrd4l6e7ve6i6l45qr2jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps6283.shortsapp",
+            "certificate_hash": "32e8f71768e37a439181f7c941fb2d5186e4aaaf"
+          }
+        },
+        {
+          "client_id": "968387609340-rtq1ai4u8oicvlqr0ntl3buq0nnh7bvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4rnv1AxwgRLRVpz7GGxRXxNvi80kBkEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968387609340-rtq1ai4u8oicvlqr0ntl3buq0nnh7bvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
